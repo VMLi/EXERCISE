@@ -1,0 +1,15 @@
+C:\Users\Мария\Desktop\exercise\Exercise001Hello\bin\Debug\net6.0\Exercise001Hello.exe
+C:\Users\Мария\Desktop\exercise\Exercise001Hello\bin\Debug\net6.0\Exercise001Hello.deps.json
+C:\Users\Мария\Desktop\exercise\Exercise001Hello\bin\Debug\net6.0\Exercise001Hello.runtimeconfig.json
+C:\Users\Мария\Desktop\exercise\Exercise001Hello\bin\Debug\net6.0\Exercise001Hello.dll
+C:\Users\Мария\Desktop\exercise\Exercise001Hello\bin\Debug\net6.0\Exercise001Hello.pdb
+C:\Users\Мария\Desktop\exercise\Exercise001Hello\obj\Debug\net6.0\Exercise001Hello.csproj.AssemblyReference.cache
+C:\Users\Мария\Desktop\exercise\Exercise001Hello\obj\Debug\net6.0\Exercise001Hello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мария\Desktop\exercise\Exercise001Hello\obj\Debug\net6.0\Exercise001Hello.AssemblyInfoInputs.cache
+C:\Users\Мария\Desktop\exercise\Exercise001Hello\obj\Debug\net6.0\Exercise001Hello.AssemblyInfo.cs
+C:\Users\Мария\Desktop\exercise\Exercise001Hello\obj\Debug\net6.0\Exercise001Hello.csproj.CoreCompileInputs.cache
+C:\Users\Мария\Desktop\exercise\Exercise001Hello\obj\Debug\net6.0\Exercise001Hello.dll
+C:\Users\Мария\Desktop\exercise\Exercise001Hello\obj\Debug\net6.0\refint\Exercise001Hello.dll
+C:\Users\Мария\Desktop\exercise\Exercise001Hello\obj\Debug\net6.0\Exercise001Hello.pdb
+C:\Users\Мария\Desktop\exercise\Exercise001Hello\obj\Debug\net6.0\Exercise001Hello.genruntimeconfig.cache
+C:\Users\Мария\Desktop\exercise\Exercise001Hello\obj\Debug\net6.0\ref\Exercise001Hello.dll
